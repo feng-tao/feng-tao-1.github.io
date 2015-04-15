@@ -4,7 +4,7 @@
   <title><![CDATA[Random Thought]]></title>
   <link href="http://feng-tao.github.io/atom.xml" rel="self"/>
   <link href="http://feng-tao.github.io/"/>
-  <updated>2015-04-14T21:19:07-07:00</updated>
+  <updated>2015-04-14T21:27:18-07:00</updated>
   <id>http://feng-tao.github.io/</id>
   <author>
     <name><![CDATA[T F]]></name>
@@ -18,7 +18,8 @@
     <link href="http://feng-tao.github.io/blog/2015/04/14/new-post/"/>
     <updated>2015-04-14T21:18:56-07:00</updated>
     <id>http://feng-tao.github.io/blog/2015/04/14/new-post</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p><strong>Hello Octopress!</strong>
+This an example post for more information see:</p>
 ]]></content>
   </entry>
   
