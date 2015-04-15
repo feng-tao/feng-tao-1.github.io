@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://feng-tao.github.io/sitemap.xml 
