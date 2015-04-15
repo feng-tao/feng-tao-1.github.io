@@ -4,7 +4,7 @@
   <title><![CDATA[Random Thought]]></title>
   <link href="http://feng-tao.github.io/atom.xml" rel="self"/>
   <link href="http://feng-tao.github.io/"/>
-  <updated>2015-04-14T22:14:32-07:00</updated>
+  <updated>2015-04-14T22:15:23-07:00</updated>
   <id>http://feng-tao.github.io/</id>
   <author>
     <name><![CDATA[T F]]></name>
@@ -22,14 +22,8 @@
 
 <figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 <span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-</pre></td><td class='code'><pre><code class='javascript'><span class='line'><span class="kd">function</span> <span class="nx">fancyAlert</span><span class="p">(</span><span class="nx">arg</span><span class="p">)</span> <span class="p">{</span>
-</span><span class='line'>  <span class="k">if</span><span class="p">(</span><span class="nx">arg</span><span class="p">)</span> <span class="p">{</span>
-</span><span class='line'>    <span class="nx">$</span><span class="p">.</span><span class="nx">facebox</span><span class="p">({</span><span class="nx">div</span><span class="o">:</span><span class="s1">&#39;#foo&#39;</span><span class="p">})</span>
-</span><span class='line'>  <span class="p">}</span>
-</span><span class='line'><span class="p">}</span>
+</pre></td><td class='code'><pre><code class='python'><span class='line'><span class="k">def</span> <span class="nf">main</span><span class="p">():</span>
+</span><span class='line'>  <span class="k">print</span> <span class="s">&quot;Hello World!&quot;</span>
 </span></code></pre></td></tr></table></div></figure>
 
 ]]></content>
